@@ -1,6 +1,6 @@
 # Big Data Analytics using Python and Spark
 
-This repository contains the configuration of Spark on a Linux server and a couple of use cases of Big Data Analytics using Python and Spark.
+This repository contains the configuration of Spark on a Linux and a couple of use cases of Big Data Analytics using Python and Spark.
 
 ## Contents
 
